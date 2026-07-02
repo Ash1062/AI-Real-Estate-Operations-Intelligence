@@ -1,4 +1,4 @@
-# AI Operations Intelligence
+# AI Powered Real Estate Operations Intelligence
 
 An end-to-end AI-powered operations intelligence project built around real customer reviews.
 
