@@ -1,6 +1,6 @@
 # AI Powered Real Estate Operations Intelligence
 
-An end-to-end AI-powered operations intelligence project built around real customer reviews.
+An end-to-end AI-powered real estate operations intelligence project built from real customer reviews to identify operational issues, discover recurring themes, and generate executive recommendations.
 
 ## Project Pipeline
 
